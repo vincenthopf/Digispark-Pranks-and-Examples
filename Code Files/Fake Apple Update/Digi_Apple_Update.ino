@@ -1,4 +1,3 @@
-//http://fakeupdate.net/apple/
 //Witten by V.hopf 
 // For more info email me at this email address: jidiparts@gmail.com
 //Website: https://jidiparts.wordpress.com/
