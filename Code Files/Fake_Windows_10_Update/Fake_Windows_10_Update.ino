@@ -1,6 +1,6 @@
-//Witten by V.hopf 
-// For more info email me at this email address: jidiparts@gmail.com
-//Website: https://jidiparts.wordpress.com/
+// Witten by V.hopf 
+// BE WARNED!!! This program will open a fake windows update that will never end, e.g go on forever...
+// Happy Pranking... :-)
 #include "DigiKeyboard.h"
 
 #define KEY_TAB               0x2b     // Keyboard TAB
@@ -19,5 +19,5 @@ void setup() {
 }
   
 void loop() {  
-
+// This loop is left blank intentionally...
 }
